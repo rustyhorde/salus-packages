@@ -1,0 +1,40 @@
+Package: salus
+Architecture: amd64
+Version: 0.1.0
+Priority: optional
+Section: utils
+Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
+Installed-Size: 26709
+Filename: pool/main/salus_0.1.0_amd64.deb
+Size: 7262682
+MD5sum: 46eab99b0419f320d9ddb8d41b2994e7
+SHA1: faa8cc9f12693964cb130d1482b456b40df7c823
+SHA256: 0741f263a74c6e3f305247fdad6b262f47e98b3cad3a949a4cfc9f5e9f23556e
+SHA512: 19cf65ef2a1c644db22439f26d920ea59a690920af1cb1a42ced83a24badf4fe1ee7bb41f0b1b2de3ea2ecc2c7cfdf38fc3abb1cba6bc1960ac221b1127570ea
+Homepage: https://github.com/rustyhorde/salus
+Description: Local secret store.
+ A key/value store whose master encryption key is split into Shamir secret
+ shares and never persisted. Ships the salusd daemon, the salusc client, and
+ the salus-agent login agent.
+License: MIT OR Apache-2.0
+
+Package: salus
+Architecture: arm64
+Version: 0.1.0
+Priority: optional
+Section: utils
+Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
+Installed-Size: 23851
+Filename: pool/main/salus_0.1.0_arm64.deb
+Size: 6298804
+MD5sum: 35f52245300d756aec2a818548662ba7
+SHA1: aaa2e7a57e888d48c84fd5d3bbd82df0ac94f795
+SHA256: 0e8472ced0300d2fb7224a17a1e83a972196783c8b4df55ecc446811a75c4ff8
+SHA512: 51cdccf6d08a75e2a061ae576e07394204b62e5a6a249539f4f781c211097d2a12c132b3c3096166de4f4a404b480e4001881198b2f4e3fd4d3d6534f107b3a9
+Homepage: https://github.com/rustyhorde/salus
+Description: Local secret store.
+ A key/value store whose master encryption key is split into Shamir secret
+ shares and never persisted. Ships the salusd daemon, the salusc client, and
+ the salus-agent login agent.
+License: MIT OR Apache-2.0
+

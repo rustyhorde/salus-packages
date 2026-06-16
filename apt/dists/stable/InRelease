@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Tue, 16 Jun 2026 14:38:17 +0000
+Description: salus package repository
+Label: salus
+Origin: salus
+Suite: stable
+MD5Sum:
+ 1069db73bfc72837ecf32d679050e7be              178 Release
+ ba66adfaffca1c6cd2cfcabec45338a1             1598 main/binary-arm64/Packages
+ 304dfb6d32d5189e65dca3bf8493b45b              790 main/binary-arm64/Packages.gz
+ 830bea6b57219e434eca3a62b0dffa6b              872 main/binary-arm64/Packages.xz
+SHA1:
+ 38aebda3fed04fa5a3331d2e45a0346fa64dbef2              178 Release
+ 4e36d5d05307e806ab5084e8b74f18f296fb91f9             1598 main/binary-arm64/Packages
+ 2abf3212f7c3fc3f8e4590fecad65548d1b9c2c2              790 main/binary-arm64/Packages.gz
+ 6d3f47c7eccb4152f3f22eb1bdedd1501c7b4952              872 main/binary-arm64/Packages.xz
+SHA256:
+ a9b7ae2bbd21fcf919bb6f0c734c578c0e7f9224cd3954bbc3dda58d71081163              178 Release
+ e2dc491194c173810ff2699af5b8df301b0bb9bcda4cc2ed75032d7611deeb47             1598 main/binary-arm64/Packages
+ 91506570f02e8ee7761dc81ee6e8eb45e9f7c46aac2ab920d34e4cfd556044e3              790 main/binary-arm64/Packages.gz
+ 7d950252f5b5ec1030d42fafc4003d9c09a6ee5e4d40d9eddbb985ff7a652f27              872 main/binary-arm64/Packages.xz
+SHA512:
+ c1d82e37f845dda73b4680c9cf97ca3488fc8437d89ed37b9eaced23b9261de9f762eb3a0ed90a84729810c4167289c37a1b03d899374b85d29a0843581676c4              178 Release
+ 1e04fa3c4ff0ea08868e8c64994040e9ced0daae460ab39b61ea8ddfe551441754a174cb8ddda53518d4697dcf31d6b7fb3cca7d239c41ecf02b9d2bf162fd37             1598 main/binary-arm64/Packages
+ 744b7afcfc5a38f16d8b20777dbda1a3c93e75c346fe13618cc8dc2c04c113e30dab7c6578fc235440468037d03ada9f3b364a3813a4f38540f83441f8f8c8ce              790 main/binary-arm64/Packages.gz
+ 959a8cc87304fb1c321eb8e2d1d2946aa5d050d96837f52bd5a4e8ba87cc99e87dc0058f8353ff7c5f5167ceb237a4afb7ba914daf68510c2d3dcdfcef80d8c9              872 main/binary-arm64/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTkPtKvb/KduhFfBHI95lDqBGuKoAUCajFf2QAKCRA95lDqBGuK
+oCiPAPwMn/SlDA6mfBpXGi2UHv8u10t9fi6slKH5JCPJ68AEFgD/UcLmaI6J0bq9
+5sdom8TvnCNvNvUmlR4dIpcqmdwGmgM=
+=VHLF
+-----END PGP SIGNATURE-----
