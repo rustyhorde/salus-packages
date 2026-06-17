@@ -4,35 +4,35 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Tue, 16 Jun 2026 16:09:08 +0000
+Date: Wed, 17 Jun 2026 00:37:10 +0000
 Description: salus package repository
 Label: salus
 Origin: salus
 Suite: stable
 MD5Sum:
- e11c90c7c0f37652fae88b633ca422c1              178 Release
- 3c28a9ce28fb1e2a5be36cc785bb9458             1598 main/binary-arm64/Packages
- 67ba24e0ad547ba182787d7edadf7769              791 main/binary-arm64/Packages.gz
- 685da59db60e7a4579476f1fa47a9ee3              872 main/binary-arm64/Packages.xz
+ ef0b3d640c441dfd93492679a5c87ed2              178 Release
+ 90279c2cfdf6b5452faa9b7977a64cb0             1598 main/binary-arm64/Packages
+ 6e7a6c0d2cd351a560804cee031031fd              789 main/binary-arm64/Packages.gz
+ e3067df83e04f4500c47decc40f2cfc7              880 main/binary-arm64/Packages.xz
 SHA1:
- 8fa22e0baa1bb17e47dfa52a1bfef2f6ac4a4039              178 Release
- f89aee1534d37f9ba4325e83d94feb913ce27d13             1598 main/binary-arm64/Packages
- 0dce3171f7a0d9450c463a318baf7b8c0e8ad68d              791 main/binary-arm64/Packages.gz
- 8600a6a4c1fdbb8e38756dbe9c270f3a5c8a650d              872 main/binary-arm64/Packages.xz
+ 5c393a87368e093efc89c1a911fdebf5292ca2fd              178 Release
+ c8a45ec41ab14456be041ff58d07dc4fb6dcc5c5             1598 main/binary-arm64/Packages
+ e10758a9af0c9d1d975b768aa822b9dac032873e              789 main/binary-arm64/Packages.gz
+ e327da165b856a645624fda0dbf1d88dda253d46              880 main/binary-arm64/Packages.xz
 SHA256:
- 3501a74298f7c6cb07ba1bbd6dd0a98198ec3a6a84ec29c3597d69e0f4665f7b              178 Release
- 3229d1dce78d9c87bffa52c1a56eb5c0e5a9e66fba657ac188cfe38bbf26fab7             1598 main/binary-arm64/Packages
- 381d1d8073f6006c06bbf4bb6464b081ca695e8f3d3fd368cd325602c854d8b5              791 main/binary-arm64/Packages.gz
- d499bae008fee0761ac1883ab831826fe2f8f11591500e0410c71c764d557521              872 main/binary-arm64/Packages.xz
+ 0dc3609e99cb12fe6506ed035ed3dc9abcb2dea277dfd26feb77dc5a6221b729              178 Release
+ 64399faa8378b28c49d17896ce42b49d9783a4198775e81406e9d00a1c85fe17             1598 main/binary-arm64/Packages
+ 09bbf53a0ca3b6b4ec3ce1d4aaea00304c9bcbd9ce4138347eaff2e70bbaa906              789 main/binary-arm64/Packages.gz
+ 7aa3de44fc4ed7fc3d048c1b754404768583ba8633b5af1c47b6e200524890dc              880 main/binary-arm64/Packages.xz
 SHA512:
- 9706e2b4a58903d05d833bfee9903e026522a77079c9ac58955dd4ff514b7b43b088e09ea3f855646bc5097490d6ebce486f68fd0571384d134f2113b2fcbad5              178 Release
- f5268204fee5a72918ddedc0405a03ea82a1ca786b415aea7b4deec8b11eb27d596fb26d27e4847c9379ac8d9c844a5936108dfa3c30be6dcb312177c8b3ba85             1598 main/binary-arm64/Packages
- 19f8df675a178cd6880820d71e04c22cede1c3a5b39c4d63c36bd126023d40782973a9284833ba0d981f6aa04da376b89b3f08fc98d4e7f75627a63e00036450              791 main/binary-arm64/Packages.gz
- 6536305557893b30e15c39229a952b67fd7558f733dcc338f9f21ea5a2a71131949b505db170d166d5717659fa07d5039517a1c729fe5e00c915b305a4b470f5              872 main/binary-arm64/Packages.xz
+ 52334c8701ac6e9b4552a3ab5c1452872656e69f53cc0a7cd4f4ba6287a27d32dd9c914680d2ce86646d3f0f88b9ab98809c75cda187eb5b2695feada3837b1e              178 Release
+ 8871d01a7317d9a88ed0e43531d0090f3e914133d3e995aef2f64861320a288c97d741f6e457e44e04186f64de3152bf062c582bb22f512dc73aecb417f17637             1598 main/binary-arm64/Packages
+ 0be208bba95fef0501dd97c8bb120050a9bacf36fc0b7dda9e1d2a5a9a1a4b745bb559fceef1c30bf42e4bf219acc43293bb62372934a2d37d2d7a1529804a48              789 main/binary-arm64/Packages.gz
+ d4a050ad8313360256c4de4e30863bbbd95fa0483a3047189993d1e2f0f55ec61abe2e75a908a1cb11a1df4666b301272a0ca1bf96fe7764b3ce02453665f8f6              880 main/binary-arm64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTkPtKvb/KduhFfBHI95lDqBGuKoAUCajF1JAAKCRA95lDqBGuK
-oFRTAP0RFIOld7d9yKdsCKk68HZn2YJVIPTshEuNcJjwjCp8qwD8CDtHpfB4ggIn
-mA6+L7QCzV8WvAt8u8CWst+GHpJp7go=
-=9wJV
+iHUEARYKAB0WIQTkPtKvb/KduhFfBHI95lDqBGuKoAUCajHsNgAKCRA95lDqBGuK
+oE92AP0ZvjQhL4/Qd3T0u0pFX20Q+yle4xnDdnahPlboj0r0pQEAxycfIOy7Fh5y
+Yc6Md3aU/LrKwZYZ7qkwAeW9j+OkmgU=
+=7sJp
 -----END PGP SIGNATURE-----
