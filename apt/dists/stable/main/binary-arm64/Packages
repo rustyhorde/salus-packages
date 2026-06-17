@@ -1,16 +1,16 @@
 Package: salus
 Architecture: amd64
-Version: 0.1.3
+Version: 0.2.0
 Priority: optional
 Section: utils
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 26969
-Filename: pool/main/salus_0.1.3_amd64.deb
-Size: 7350252
-MD5sum: 4f11a497dc3c0b67adad665faedf8cec
-SHA1: 4627f775d8f4480f13a9d7fd36b1a3438b492a17
-SHA256: 3c0a5ff3b44dfd82fc4a55cfe1a958e7258e730b018564c5c08505cb7b03a65e
-SHA512: d3ecd444ddec5e8d00720351af4d006212e8a23db00946be42b5923540e1e8f8f05991f1db5aaa7bae418d3dd1c2e6d947ac0d0801be521b5dcdefc8618d181f
+Installed-Size: 26593
+Filename: pool/main/salus_0.2.0_amd64.deb
+Size: 7381608
+MD5sum: 05d71a214888149bd53a9182bf20afb3
+SHA1: cafbb90cd71ce985cde1f735fecb3493ab6faa5b
+SHA256: 7bad56b6fd3d96f546b3be1457e359e94b2eb90d82749d52c49e7e965c4b4999
+SHA512: 740b5ae23a72ea603b8bdc21737816b3e66aa7aea3fc9b6e0bbba13e20a544ad60967f1bd12f80175d41f45ea9bdbe3b537ac945917ff295f4190368b27506ae
 Homepage: https://github.com/rustyhorde/salus
 Description: Local secret store.
  A key/value store whose master encryption key is split into Shamir secret
@@ -20,17 +20,17 @@ License: MIT OR Apache-2.0
 
 Package: salus
 Architecture: arm64
-Version: 0.1.3
+Version: 0.2.0
 Priority: optional
 Section: utils
 Maintainer: Jason Ozias <jason.g.ozias@gmail.com>
-Installed-Size: 24087
-Filename: pool/main/salus_0.1.3_arm64.deb
-Size: 6369114
-MD5sum: 1f534042abc93618452be31ed8429a99
-SHA1: 541bfe12bdebcd48679c648edfcc70b3ec90c5a0
-SHA256: 445a7e6447e71913410ece2da960fa4854793b1337ec900775ba9dd7457aadb5
-SHA512: b98d4c9a586f2d7dfca578cbf69ac5ea4a9ab3e1659a3c30ce396b48fd68a357d0bfff3514035deed8ccac7ed8316e7f2101bb359471f72d6cb4741becdd178b
+Installed-Size: 23830
+Filename: pool/main/salus_0.2.0_arm64.deb
+Size: 6347352
+MD5sum: 323051ceffca688052ff77e795e7f6f7
+SHA1: 373d6020022ad72ea55a7e2a2f65fe8e1b89b7c7
+SHA256: c1209301a9641f8824927fecac3d3d52175eebc3f32636d9956ad400b308160a
+SHA512: 18ff8af8c155efb7b0364461fb97d3484a3cd72a54c29a28a874ee558f73b5a5823de5b96f7e597fffe1e2159f151866c13d235ecb90633ecda146aee1503690
 Homepage: https://github.com/rustyhorde/salus
 Description: Local secret store.
  A key/value store whose master encryption key is split into Shamir secret
