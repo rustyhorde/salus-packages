@@ -4,35 +4,35 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Wed, 17 Jun 2026 00:37:10 +0000
+Date: Wed, 17 Jun 2026 14:46:33 +0000
 Description: salus package repository
 Label: salus
 Origin: salus
 Suite: stable
 MD5Sum:
- ef0b3d640c441dfd93492679a5c87ed2              178 Release
- 90279c2cfdf6b5452faa9b7977a64cb0             1598 main/binary-arm64/Packages
- 6e7a6c0d2cd351a560804cee031031fd              789 main/binary-arm64/Packages.gz
- e3067df83e04f4500c47decc40f2cfc7              880 main/binary-arm64/Packages.xz
+ 2a35262c8c6decc0b6eb90f8aed09188              178 Release
+ fb386a6ad1a825c4a1bf4effab2c00bd             1598 main/binary-arm64/Packages
+ a82deb0d117f3850f9075428c67aa784              791 main/binary-arm64/Packages.gz
+ 185197beb6c99fae98a921e90ae5bde1              872 main/binary-arm64/Packages.xz
 SHA1:
- 5c393a87368e093efc89c1a911fdebf5292ca2fd              178 Release
- c8a45ec41ab14456be041ff58d07dc4fb6dcc5c5             1598 main/binary-arm64/Packages
- e10758a9af0c9d1d975b768aa822b9dac032873e              789 main/binary-arm64/Packages.gz
- e327da165b856a645624fda0dbf1d88dda253d46              880 main/binary-arm64/Packages.xz
+ d745539dd4c7cbd96c007f5ee57524c8d9bdf1a3              178 Release
+ 78c45f462ad4751df3183a9630d0dafd823491dc             1598 main/binary-arm64/Packages
+ 99b066f2500537ca5af586622ea44f632be823b2              791 main/binary-arm64/Packages.gz
+ cfebb574df963802c1932ca4e503bf35d4236b0e              872 main/binary-arm64/Packages.xz
 SHA256:
- 0dc3609e99cb12fe6506ed035ed3dc9abcb2dea277dfd26feb77dc5a6221b729              178 Release
- 64399faa8378b28c49d17896ce42b49d9783a4198775e81406e9d00a1c85fe17             1598 main/binary-arm64/Packages
- 09bbf53a0ca3b6b4ec3ce1d4aaea00304c9bcbd9ce4138347eaff2e70bbaa906              789 main/binary-arm64/Packages.gz
- 7aa3de44fc4ed7fc3d048c1b754404768583ba8633b5af1c47b6e200524890dc              880 main/binary-arm64/Packages.xz
+ ca16cf8353780505df1a0a8de86f6475faad436465d9d4ac6063daa9786dfb7e              178 Release
+ 1c71cba42930e8b1555e1c372d61af51ecbf965ab5f22f00a5df4ded10c7d349             1598 main/binary-arm64/Packages
+ 5e788780eda03a80bdbb3c54190fdee5098a5591e63da9b01cf53e96458e2c79              791 main/binary-arm64/Packages.gz
+ 7776de163140a626c4792cf3c4f00e46aead8ae84e2bb55aabb9b093fb5560d9              872 main/binary-arm64/Packages.xz
 SHA512:
- 52334c8701ac6e9b4552a3ab5c1452872656e69f53cc0a7cd4f4ba6287a27d32dd9c914680d2ce86646d3f0f88b9ab98809c75cda187eb5b2695feada3837b1e              178 Release
- 8871d01a7317d9a88ed0e43531d0090f3e914133d3e995aef2f64861320a288c97d741f6e457e44e04186f64de3152bf062c582bb22f512dc73aecb417f17637             1598 main/binary-arm64/Packages
- 0be208bba95fef0501dd97c8bb120050a9bacf36fc0b7dda9e1d2a5a9a1a4b745bb559fceef1c30bf42e4bf219acc43293bb62372934a2d37d2d7a1529804a48              789 main/binary-arm64/Packages.gz
- d4a050ad8313360256c4de4e30863bbbd95fa0483a3047189993d1e2f0f55ec61abe2e75a908a1cb11a1df4666b301272a0ca1bf96fe7764b3ce02453665f8f6              880 main/binary-arm64/Packages.xz
+ 98b763219ea15478bae329b8197f59e815169cc7e043b282e7f1f32fef4bbaf78393ea7f182492a623293d44925043eab057e9b3aa1a6ed140dcba5e3769477e              178 Release
+ 6f866ce6cd6f271ab41468f1f6261dcc1a9970ba87e2874bd65c044bb5e8154a3f19fa1469c60e6c38469d5e3c783008b010fed3b6fe6495df322c25d7c12d82             1598 main/binary-arm64/Packages
+ 71e3e8ae6ce5476a7527b9297c585d5ab432075661dc4255ab44e8562673f699b6bb39b6921840f60c8bf16ea3339d664263a8a5302cb2441cbacbead83e5d08              791 main/binary-arm64/Packages.gz
+ baf5a0686e5f1b4bd3e19fc9121e7c1d089235de3e77863a041781d043dd56e01c4ff0d3d5e8d65dbf4c05a3dc07ab02286574d5c3655170a66c55395320f4bb              872 main/binary-arm64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQTkPtKvb/KduhFfBHI95lDqBGuKoAUCajHsNgAKCRA95lDqBGuK
-oE92AP0ZvjQhL4/Qd3T0u0pFX20Q+yle4xnDdnahPlboj0r0pQEAxycfIOy7Fh5y
-Yc6Md3aU/LrKwZYZ7qkwAeW9j+OkmgU=
-=7sJp
+iHUEARYKAB0WIQTkPtKvb/KduhFfBHI95lDqBGuKoAUCajKzSQAKCRA95lDqBGuK
+oGAaAP4olUM/Pcc4T4VY+AySQprIcShXDlvrV5l2DriZIfAEpgEA6SHM2TOBkHc9
+oGA8TjAKHK1UVyFYu/POVqr/9FJ5oQA=
+=AHb8
 -----END PGP SIGNATURE-----
