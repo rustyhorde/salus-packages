@@ -1,28 +1,28 @@
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Wed, 17 Jun 2026 20:02:59 +0000
+Date: Thu, 18 Jun 2026 15:43:32 +0000
 Description: salus package repository
 Label: salus
 Origin: salus
 Suite: stable
 MD5Sum:
- 2c6113c65ea444dae5f0a70880994f27              178 Release
- 3b31afc221bc49b8415f1e0ba5bc0fc6             1598 main/binary-arm64/Packages
- aa1e8bef848716ddb09ccfe1c7e07ed7              789 main/binary-arm64/Packages.gz
- ef4c83cec1ce2965b25cf4c409915ad3              868 main/binary-arm64/Packages.xz
+ 3a9585ab2250b1aae2bf8ef8c9866992              178 Release
+ e7179f381d87c2d3c2c28717ec81c04a             1598 main/binary-arm64/Packages
+ 19da86fa53d4d87711978cb84ab099b6              789 main/binary-arm64/Packages.gz
+ dc721e732f7f46c37bcdff232dcefbfb              876 main/binary-arm64/Packages.xz
 SHA1:
- 3adcc82d36807769fa873220dfd0fc81c0c8fa72              178 Release
- 5f405614b863d6f5381ee260ff738c915605e216             1598 main/binary-arm64/Packages
- d7e54fab2297fb0906375ba9f72751832cbc3aec              789 main/binary-arm64/Packages.gz
- 921d2c4ec1e08fdeeed379e26c3219bbd281400b              868 main/binary-arm64/Packages.xz
+ 2ca87d94edf2d25c243390bd970b930d648b354b              178 Release
+ 0f049765a89420fb85005070217e4ceda0c004ea             1598 main/binary-arm64/Packages
+ 950f29f80d4db7d10d8f0487b0bd2faa8cb608ad              789 main/binary-arm64/Packages.gz
+ 2affa87742a47af8846fb676f49884be6104e810              876 main/binary-arm64/Packages.xz
 SHA256:
- fcec652e6a31486d4e54679888d314bc1bb33a086c6fa879e5e8822c143b5ec2              178 Release
- 87cc0542ebf3566615001ba4b48ba512640e3744b7da1489b2d56bd98a28eb7b             1598 main/binary-arm64/Packages
- 752f5902330ebbcbb1a6f0158dbb52ff8a4071b58d4188e706bef93b0757f1a2              789 main/binary-arm64/Packages.gz
- 9062745ba633eddf749eb987152b45887ecd9ed0ed2c1336355842678e5cfd5f              868 main/binary-arm64/Packages.xz
+ c8c486e217fc88080ac15b3db3013a747c0293e2329f76fdfb3d05280b6d0bdb              178 Release
+ 6c57beb327f87cfac6e763c2fefc64d640f45ddd65660a8eee32794d6a1708ee             1598 main/binary-arm64/Packages
+ ee85c3e02e65332c8cea4b40fb6d6ec50e72649a96686289a4eca183a7e67c32              789 main/binary-arm64/Packages.gz
+ 6ddf90cf53109fa15e437989aecb95d4c323c28ba5fd3cb96ec12cfc4b99df6f              876 main/binary-arm64/Packages.xz
 SHA512:
- 9bd44432053bd7b6981685dd76262f04ceb34ba71f3095c2d2cc1268ef38fb8d85eaac958e923dc76cd1ecadee156c7bd0744386b852d1ea826d6c8fc7b26c72              178 Release
- 3623a6e5e3a81caf9b397e432817028b92a4e83ac3adc44a4ba55bbb75655302e451aeb12a4c422a9dc54a6d4d6c1dbbed492b591b2dd0cd9650d68d3163164f             1598 main/binary-arm64/Packages
- 024cbf9bf36c04e052a1a81deab9c65b20cc8ac3c921787066d00be4ecbdd3b0f018188687b09cbf39699cc964b97bccc55ab3ff77fbdaac408ce81f5dbce40e              789 main/binary-arm64/Packages.gz
- 0901e052c26c1ccd13297cda6c328387173b9243200792947ce8f39c1d81011ab8400b9e871a1e0427807154d7624a8581182950f9cc0e3e37c6bd406fa45316              868 main/binary-arm64/Packages.xz
+ 16f9511b06eb67a9e65d0740e2f581e43e0c0aa7b015a32f77cd285010c8275e77076f3ba46343a5f4c57c0f91a9ca49f4cdd878b770ba09d7f2fcc6f0da1932              178 Release
+ c62c0a18975d51bcd489e24dd3b9ca24ef023c42cb93db2a0662e983dea8e29af72caa89d53dbd6e71ee8c1cebe1af92d44b28eee03520a9276e5bc1d5ede6b8             1598 main/binary-arm64/Packages
+ 636305a0afe449948cdcb41dd59d17cbfd0bb4b4d6b249bee09573fda8608daf9f8d64378b31158ef7b2befe56d78a4f56e698a61e5d6d0a3db6ffe860320638              789 main/binary-arm64/Packages.gz
+ 7b85264bd0fac043676f88b9c0fb2af7af941c9ce42f11feeca788990f262a3bf59f334505186bab7b3a4a218a7ab230b661427a912a1bea5757b34e9cd36800              876 main/binary-arm64/Packages.xz
